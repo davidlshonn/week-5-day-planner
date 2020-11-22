@@ -2,11 +2,11 @@
 
 ## Sceen Captures of Live Application
 
-![WebPage ScreenCapture](/Assets\Live-Application-Capture.png "ScreenCapture")
+![WebPage ScreenCapture](/Assets/Live-Application-Capture.png "ScreenCapture")
 
 ## Link to Live Website
 
-![Link to website] (https://davidlshonn.github.io/week-5-day-planner/ "Daily Planner")
+![Link to website](https://davidlshonn.github.io/week-5-day-planner/ "Daily Planner")
 
 # 05 Third-Party APIs: Work Day Scheduler
 
