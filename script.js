@@ -42,10 +42,10 @@ $(document).ready(function () {
       var thisTimeBlockId = $(this).attr("id");
       if (thisTimeBlockId < presentHour) {
         $(this).addClass("past");
-      } else if (thisTimeBlockId === presentHour) {
-        $(this).addClass("present");
-      } else {
+      } else if (thisTimeBlockId > presentHour) {
         $(this).addClass("future");
+      } else {
+        $(this).addClass("present");
       }
     });
   }
